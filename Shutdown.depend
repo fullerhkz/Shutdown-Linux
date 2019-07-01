@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561942831 source:/home/hkz/Projetos/Shutdown/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
